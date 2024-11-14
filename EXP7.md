@@ -1,4 +1,4 @@
-# Ex.No: 7  ATM Applicationn
+# Ex.No: 7  ATM Application
 ### DATE: 4-10-24                                                                           
 ### REGISTER NUMBER : 212221040109
 ### AIM: 
