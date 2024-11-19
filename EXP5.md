@@ -1,6 +1,6 @@
 # Ex.No: 5 check the given number is array through binary search and inspect for failures.
 ### DATE: 27-09-2024
-### REGISTER NUMBER : 212221040109
+### REGISTER NUMBER : 212221040009
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
 
