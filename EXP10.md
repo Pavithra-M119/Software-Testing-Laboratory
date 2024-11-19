@@ -1,7 +1,7 @@
 # Ex.No: 14  Pytest program for Sum of digits
 
 ### DATE:                                                                            
-### REGISTER NUMBER : 212221040109
+### REGISTER NUMBER : 212221040009
 ### AIM: To write a python program for Fibonacci Series and generate test cases using Pytest. 
 
 ### Algorithm:
