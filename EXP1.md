@@ -1,7 +1,7 @@
 # Ex.No: 1 Write programs in Python Language to demonstrate the working of followingconstructs with possible test cases: a) do…while b) while…do c) if …else d) switch e) for 
 
 ### DATE:                                                                            
-### REGISTER NUMBER : 
+### REGISTER NUMBER : 212221040119
 
 ### AIM:  
 To write python programs for do…while, while, for, switch and if…else and test with possible test 
@@ -14,7 +14,8 @@ Cases
 4.  the program with possible test cases.
 5. Stop the program.
 ### Program:
-def display():
+
+""" def display():
 start=input("Enter a positive value for START: ")
 if start.isnumeric():
 end=input("Enter a positive value for END: ")
@@ -31,11 +32,11 @@ else:
 print("The value",end,"is not a positive number.")
 else:
 print("The value",start,"is not a positive number.")
-display()
+display() """
 
 
 ### Output:
-Python 3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)] on win32
+"""Python 3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license()" for more information.
 
  RESTART: C:\Users\M PAVITHRA\OneDrive\stl\stl ex1.py
@@ -78,7 +79,7 @@ Enter a valid positive number.
 
 Enter a positive value for START: 4
 Enter a positive value for END: 0
-4 
+4 """
 
 ![Screenshot (111)](https://github.com/user-attachments/assets/df3681bc-75c6-4a5b-bdfd-3a5c2db3eda3)
 
