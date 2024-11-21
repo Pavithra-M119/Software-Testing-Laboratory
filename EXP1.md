@@ -6,7 +6,7 @@
 ### AIM:  
 To write python programs for do…while, while, for, switch and if…else and test with possible test 
 Cases 
-
+ 
 ### Algorithm:
 1. Start the program.
 2. Create separate files for each given program.
@@ -39,51 +39,43 @@ Python 3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (
 Type "help", "copyright", "credits" or "license()" for more information.
 
  RESTART: C:\Users\M PAVITHRA\OneDrive\stl\stl ex1.py
+ 
 Enter a positive value for START: 5
 Enter a positive value for END: 5
 5 
 
- RESTART: C:\Users\M PAVITHRA\OneDrive\stl\stl ex1.py 
 Enter a positive value for START: hi
 Enter a positive value for END: hello
 Enter a valid positive number.
 
-RESTART: C:\Users\M PAVITHRA\OneDrive\stl\stl ex1.py 
 Enter a positive value for START: 0
 Enter a positive value for END: 5
 0 1 2 3 4 5 
 
- RESTART: C:\Users\M PAVITHRA\OneDrive\stl\stl ex1.py 
 Enter a positive value for START: 5.5
 Enter a positive value for END: 4.5
 Enter a valid positive number.
 
- RESTART: C:\Users\M PAVITHRA\OneDrive\stl\stl ex1.py 
 Enter a positive value for START: -4
 Enter a positive value for END: -6
 Enter a valid positive number.
 
- RESTART: C:\Users\M PAVITHRA\OneDrive\stl\stl ex1.py 
 Enter a positive value for START: 3
 Enter a positive value for END: 10
 3 4 5 6 7 8 9 10 
 
-RESTART: C:\Users\M PAVITHRA\OneDrive\stl\stl ex1.py 
 Enter a positive value for START: 
 Enter a positive value for END: 
 Enter a valid positive number.
-
- RESTART: C:\Users\M PAVITHRA\OneDrive\stl\stl ex1.py 
+ 
 Enter a positive value for START: 4
 Enter a positive value for END: #
 Enter a valid positive number.
 
- RESTART: C:\Users\M PAVITHRA\OneDrive\stl\stl ex1.py 
 Enter a positive value for START: l
 Enter a positive value for END: 3
 Enter a valid positive number.
 
- RESTART: C:\Users\M PAVITHRA\OneDrive\stl\stl ex1.py 
 Enter a positive value for START: 4
 Enter a positive value for END: 0
 4 
