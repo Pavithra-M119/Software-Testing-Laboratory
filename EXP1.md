@@ -14,27 +14,81 @@ Cases
 4.  the program with possible test cases.
 5. Stop the program.
 ### Program:
-
-
-
-
-
-
-
-
-
-
-
-
+def display():
+start=input("Enter a positive value for START: ")
+if start.isnumeric():
+end=input("Enter a positive value for END: ")
+if end.isnumeric():
+while True:
+start=int(start)
+end=int(end)
+print(start,end=' ')
+if start<end:
+start+=1
+else:
+break
+else:
+print("The value",end,"is not a positive number.")
+else:
+print("The value",start,"is not a positive number.")
+display()
 
 
 ### Output:
+Python 3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
 
+ RESTART: C:\Users\M PAVITHRA\OneDrive\stl\stl ex1.py
+Enter a positive value for START: 5
+Enter a positive value for END: 5
+5 
 
+ RESTART: C:\Users\M PAVITHRA\OneDrive\stl\stl ex1.py 
+Enter a positive value for START: hi
+Enter a positive value for END: hello
+Enter a valid positive number.
 
+RESTART: C:\Users\M PAVITHRA\OneDrive\stl\stl ex1.py 
+Enter a positive value for START: 0
+Enter a positive value for END: 5
+0 1 2 3 4 5 
 
+ RESTART: C:\Users\M PAVITHRA\OneDrive\stl\stl ex1.py 
+Enter a positive value for START: 5.5
+Enter a positive value for END: 4.5
+Enter a valid positive number.
 
+ RESTART: C:\Users\M PAVITHRA\OneDrive\stl\stl ex1.py 
+Enter a positive value for START: -4
+Enter a positive value for END: -6
+Enter a valid positive number.
 
+ RESTART: C:\Users\M PAVITHRA\OneDrive\stl\stl ex1.py 
+Enter a positive value for START: 3
+Enter a positive value for END: 10
+3 4 5 6 7 8 9 10 
+
+RESTART: C:\Users\M PAVITHRA\OneDrive\stl\stl ex1.py 
+Enter a positive value for START: 
+Enter a positive value for END: 
+Enter a valid positive number.
+
+ RESTART: C:\Users\M PAVITHRA\OneDrive\stl\stl ex1.py 
+Enter a positive value for START: 4
+Enter a positive value for END: #
+Enter a valid positive number.
+
+ RESTART: C:\Users\M PAVITHRA\OneDrive\stl\stl ex1.py 
+Enter a positive value for START: l
+Enter a positive value for END: 3
+Enter a valid positive number.
+
+ RESTART: C:\Users\M PAVITHRA\OneDrive\stl\stl ex1.py 
+Enter a positive value for START: 4
+Enter a positive value for END: 0
+4 
+
+![Screenshot (111)](https://github.com/user-attachments/assets/df3681bc-75c6-4a5b-bdfd-3a5c2db3eda3)
 
 ### Result:
 Thus, the python program to demonstrate the working of given constructs is implemented and the output is verified successfully.
