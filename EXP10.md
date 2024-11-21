@@ -1,7 +1,7 @@
 # Ex.No: 14  Pytest program for Fibonacci Series
 
 ### DATE: 05/11/14                                                                           
-### REGISTER NUMBER : 212221040170
+### REGISTER NUMBER : 2122210401119
 ### AIM: To write a python program for Fibonacci Series and generate test cases using Pytest. 
 
 ### Algorithm:
@@ -31,13 +31,6 @@ def test_fib_2_equals_1():
 def test_fib_6_equals_8(): 
 assert fibR(6) == 7 
 ```
-
-
-
-
-
-
-
 
 
 
